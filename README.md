@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DeveshJha-00/leethub-test/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DeveshJha-00/leethub-test/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DeveshJha-00/leethub-test/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/DeveshJha-00/leethub-test/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/DeveshJha-00/leethub-test/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/DeveshJha-00/leethub-test/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
