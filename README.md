@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DeveshJha-00/leethub-test/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/DeveshJha-00/leethub-test/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DeveshJha-00/leethub-test/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
