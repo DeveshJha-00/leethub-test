@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DeveshJha-00/leethub-test/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshJha-00/leethub-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/DeveshJha-00/leethub-test/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DeveshJha-00/leethub-test/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DeveshJha-00/leethub-test/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
