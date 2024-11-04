@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/DeveshJha-00/leethub-test/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/DeveshJha-00/leethub-test/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
