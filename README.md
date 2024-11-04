@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DeveshJha-00/leethub-test/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/DeveshJha-00/leethub-test/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DeveshJha-00/leethub-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DeveshJha-00/leethub-test/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -61,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DeveshJha-00/leethub-test/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeveshJha-00/leethub-test/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DeveshJha-00/leethub-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DeveshJha-00/leethub-test/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
