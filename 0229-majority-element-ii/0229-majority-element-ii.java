@@ -9,7 +9,7 @@ class Solution {
             if (map.get(ele) == mini){
                 list.add(ele);
             }
-            if (list.size() == 2) break;
+            // if (list.size() == 2) break;
         }
         return list;
     }
