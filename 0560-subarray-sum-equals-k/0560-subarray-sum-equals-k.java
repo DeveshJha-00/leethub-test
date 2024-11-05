@@ -11,7 +11,6 @@ class Solution {
                 count += map.get(rem);
             }
             map.put(prefSum, map.getOrDefault(prefSum,0) + 1);
-            // map.put(prefSum,)
         }
         return count;
     }
