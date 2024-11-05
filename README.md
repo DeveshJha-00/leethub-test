@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/DeveshJha-00/leethub-test/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/DeveshJha-00/leethub-test/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DeveshJha-00/leethub-test/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/DeveshJha-00/leethub-test/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1603-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
