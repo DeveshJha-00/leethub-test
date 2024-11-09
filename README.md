@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshJha-00/leethub-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/DeveshJha-00/leethub-test/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0229-majority-element-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DeveshJha-00/leethub-test/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DeveshJha-00/leethub-test/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/DeveshJha-00/leethub-test/tree/master/0367-valid-perfect-square) |
