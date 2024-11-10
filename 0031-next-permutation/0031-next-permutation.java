@@ -8,9 +8,7 @@ class Solution {
 
     public void reverse(int[] arr, int a, int b){
         while(a<b){
-            int temp = arr[a];
-            arr[a] = arr[b];
-            arr[b] = temp;
+            swap(arr,a,b);
             a++;
             b--;
         }
