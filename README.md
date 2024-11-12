@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
+| [2032-largest-odd-number-in-string](https://github.com/DeveshJha-00/leethub-test/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/DeveshJha-00/leethub-test/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/DeveshJha-00/leethub-test/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/DeveshJha-00/leethub-test/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
