@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DeveshJha-00/leethub-test/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1603-running-sum-of-1d-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DeveshJha-00/leethub-test/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeveshJha-00/leethub-test/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/DeveshJha-00/leethub-test/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DeveshJha-00/leethub-test/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DeveshJha-00/leethub-test/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
