@@ -30,3 +30,39 @@ class Solution {
         return low;
     }
 }
+
+
+// class Solution {
+//     public int splitArray(int[] nums, int k) {
+//         int start =Integer.MIN_VALUE;;
+//         int end = 0;
+//         for(int i=0;i<nums.length;i++){
+//             start = Math.max(start,nums[i]);
+//             end = end+nums[i];
+//         }
+//         while(start<=end){
+//             int mid = start+((end-start)/2);
+//             int numsplits = func(nums,mid);
+//             if(numsplits > k){
+//                 start = mid+1;
+//             }else{
+//                 end = mid-1;
+//             }
+//         }
+//         return start;
+//     }
+//     int func(int[] arr, int splits){
+//         int numsplits =1;
+//         int sumsplit=0;
+//         for(int i=0;i<arr.length;i++){
+//             if(sumsplit+arr[i]<=splits){
+//                 sumsplit +=arr[i];
+//             }
+//             else{
+//                 numsplits ++;
+//                 sumsplit = arr[i];
+//             }
+//         }
+//         return numsplits;
+//     }
+// }
