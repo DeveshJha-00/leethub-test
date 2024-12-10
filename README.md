@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DeveshJha-00/leethub-test/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeveshJha-00/leethub-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
@@ -255,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
