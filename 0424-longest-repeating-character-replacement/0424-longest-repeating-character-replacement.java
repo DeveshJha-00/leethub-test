@@ -40,7 +40,7 @@ class Solution {
             maxFreq = Math.max(maxFreq, map.get(s.charAt(r)));
             int changes = (r-l+1) - maxFreq;
 
-            while (changes > k){ //trim from left (not valid)
+            if (changes > k){ //trim from left (not valid)
                 map.put(s.charAt(l), map.get(s.charAt(l))-1);
                 l++;
                 // maxFreq = (Collections.max(map.values()));
