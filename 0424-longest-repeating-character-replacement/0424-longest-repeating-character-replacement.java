@@ -19,19 +19,35 @@ class Solution {
         // }
 
         int maxFreq=0;
+        // while (r<n){
+        //     map.put(s.charAt(r), map.getOrDefault(s.charAt(r), 0)+1);
+        //     maxFreq = Math.max(maxFreq, map.get(s.charAt(r)));
+        //     int changes = (r-l+1) - maxFreq;
+
+        //     while (changes > k){ //trim from left (not valid)
+        //         map.put(s.charAt(l), map.get(s.charAt(l))-1);
+        //         l++;
+        //         maxFreq = (Collections.max(map.values()));
+        //         changes = (r-l+1) - maxFreq;
+        //     }
+            
+        //     maxLen = Math.max(maxLen, r-l+1);
+        //     r++;
+        // }
+
         while (r<n){
             map.put(s.charAt(r), map.getOrDefault(s.charAt(r), 0)+1);
             maxFreq = Math.max(maxFreq, map.get(s.charAt(r)));
             int changes = (r-l+1) - maxFreq;
+
             while (changes > k){ //trim from left (not valid)
                 map.put(s.charAt(l), map.get(s.charAt(l))-1);
                 l++;
-                maxFreq = (Collections.max(map.values()));
+                // maxFreq = (Collections.max(map.values()));
                 changes = (r-l+1) - maxFreq;
             }
-            // if (changes <= k){
-                maxLen = Math.max(maxLen, r-l+1);
-            // }
+            
+            maxLen = Math.max(maxLen, r-l+1);
             r++;
         }
 
