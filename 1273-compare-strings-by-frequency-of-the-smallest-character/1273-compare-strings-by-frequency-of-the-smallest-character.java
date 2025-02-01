@@ -5,7 +5,7 @@
 //         int freq=1;  
 //         for (int i=1; i<s.length(); i++){
 //             if (s.charAt(i) == smallest) freq++;
-//             if (s.charAt(i) < smallest){
+//             else if (s.charAt(i) < smallest){
 //                 smallest=s.charAt(i);
 //                 freq=1;
 //             }
@@ -36,9 +36,8 @@ class Solution {
         char smallest = s.charAt(0);
         int freq = 1;
         for (int i = 1; i < s.length(); i++) {
-            if (s.charAt(i) == smallest) {
-                freq++;
-            } else if (s.charAt(i) < smallest) {
+            if (s.charAt(i) == smallest) freq++;
+            else if (s.charAt(i) < smallest) {
                 smallest = s.charAt(i);
                 freq = 1;
             }
@@ -73,11 +72,8 @@ class Solution {
         int left = 0, right = arr.length;
         while (left < right) {
             int mid = left + (right - left) / 2;
-            if (arr[mid] > target) {
-                right = mid;
-            } else {
-                left = mid + 1;
-            }
+            if (arr[mid] > target) right = mid;
+            else  left = mid + 1;
         }
         return left;
     }
