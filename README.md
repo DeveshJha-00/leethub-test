@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/DeveshJha-00/leethub-test/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/DeveshJha-00/leethub-test/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DeveshJha-00/leethub-test/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/DeveshJha-00/leethub-test/tree/master/0205-isomorphic-strings) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/DeveshJha-00/leethub-test/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DeveshJha-00/leethub-test/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0206-reverse-linked-list) |
