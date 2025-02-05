@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DeveshJha-00/leethub-test/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/DeveshJha-00/leethub-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshJha-00/leethub-test/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/DeveshJha-00/leethub-test/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeveshJha-00/leethub-test/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DeveshJha-00/leethub-test/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/DeveshJha-00/leethub-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshJha-00/leethub-test/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/DeveshJha-00/leethub-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
