@@ -15,9 +15,9 @@ class Solution {
         // return true;
 
         for (char ch : magazine.toCharArray()) freq[ch-'a']++;
-        for (char ch : ransomNote.toCharArray()) freq[ch-'a']--;
-        for (int ele : freq){
-            if (ele<0) return false;
+        for (char ch : ransomNote.toCharArray()){
+            if (freq[ch-'a'] == 0) return false;
+            freq[ch-'a']--;
         }
         return true;
     }
