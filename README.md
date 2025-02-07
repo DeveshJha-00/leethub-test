@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/DeveshJha-00/leethub-test/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DeveshJha-00/leethub-test/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DeveshJha-00/leethub-test/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/DeveshJha-00/leethub-test/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DeveshJha-00/leethub-test/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0219-contains-duplicate-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DeveshJha-00/leethub-test/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DeveshJha-00/leethub-test/tree/master/0283-move-zeroes) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DeveshJha-00/leethub-test/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DeveshJha-00/leethub-test/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0237-delete-node-in-a-linked-list) |
