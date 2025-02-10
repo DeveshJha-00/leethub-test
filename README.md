@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1319-unique-number-of-occurrences](https://github.com/DeveshJha-00/leethub-test/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DeveshJha-00/leethub-test/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/master/1078-remove-outermost-parentheses) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DeveshJha-00/leethub-test/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DeveshJha-00/leethub-test/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/DeveshJha-00/leethub-test/tree/master/2032-largest-odd-number-in-string) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/DeveshJha-00/leethub-test/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DeveshJha-00/leethub-test/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
