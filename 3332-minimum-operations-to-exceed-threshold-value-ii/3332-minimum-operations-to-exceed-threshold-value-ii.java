@@ -5,7 +5,7 @@ class Solution {
         PriorityQueue<Long> pq = new PriorityQueue<>();
         for (int ele:nums) pq.offer((long)ele);
 
-        while(!pq.isEmpty() && pq.size() > 1){
+        while(pq.size() > 1){
             long x = pq.poll();
             long y = pq.poll();
             if (x<k || y<k){
