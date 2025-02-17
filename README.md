@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DeveshJha-00/leethub-test/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/DeveshJha-00/leethub-test/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DeveshJha-00/leethub-test/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DeveshJha-00/leethub-test/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DeveshJha-00/leethub-test/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DeveshJha-00/leethub-test/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DeveshJha-00/leethub-test/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DeveshJha-00/leethub-test/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeveshJha-00/leethub-test/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeveshJha-00/leethub-test/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0136-single-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DeveshJha-00/leethub-test/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DeveshJha-00/leethub-test/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeveshJha-00/leethub-test/tree/master/0242-valid-anagram) |
