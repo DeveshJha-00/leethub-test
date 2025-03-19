@@ -438,12 +438,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/DeveshJha-00/leethub-test/tree/master/3221-find-the-peaks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
