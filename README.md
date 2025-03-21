@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/DeveshJha-00/leethub-test/tree/master/3221-find-the-peaks) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DeveshJha-00/leethub-test/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3429-special-array-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Matrix
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/DeveshJha-00/leethub-test/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeveshJha-00/leethub-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DeveshJha-00/leethub-test/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
