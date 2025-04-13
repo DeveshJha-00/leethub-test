@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeveshJha-00/leethub-test/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/DeveshJha-00/leethub-test/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/2050-count-good-numbers) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DeveshJha-00/leethub-test/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
