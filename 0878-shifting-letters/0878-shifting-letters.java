@@ -25,20 +25,20 @@ class Solution {
     // }
 
     public String shiftingLetters(String s, int[] shifts) {
-    int n = s.length();
-    long totalShift = 0;
+        int n = s.length();
+        long shift = 0;
 
-    StringBuilder res = new StringBuilder(s);
+        StringBuilder res = new StringBuilder(s);
 
-    // Traverse from right to left applying cumulative shift
-    for (int i = n - 1; i >= 0; i--) {
-        totalShift = (totalShift + shifts[i]) % 26;
-        int oldCharVal = res.charAt(i) - 'a';
-        char newChar = (char)((oldCharVal + totalShift) % 26 + 'a');
-        res.setCharAt(i, newChar);
+        // Traverse from right to left applying cumulative shift
+        for (int i=n-1; i>=0; i--) {
+            shift = (shift + shifts[i]) % 26;
+            int oldCharVal = res.charAt(i) - 'a';
+            char newChar = (char)((oldCharVal + shift) % 26 + 'a');
+            res.setCharAt(i, newChar);
+        }
+
+        return res.toString();
     }
-
-    return res.toString();
-}
 
 }
