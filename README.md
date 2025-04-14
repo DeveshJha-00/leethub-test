@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DeveshJha-00/leethub-test/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/DeveshJha-00/leethub-test/tree/master/0860-design-circular-queue) |
+| [0878-shifting-letters](https://github.com/DeveshJha-00/leethub-test/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/DeveshJha-00/leethub-test/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/DeveshJha-00/leethub-test/tree/master/0907-koko-eating-bananas) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
+| [0878-shifting-letters](https://github.com/DeveshJha-00/leethub-test/tree/master/0878-shifting-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/master/1078-remove-outermost-parentheses) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
+| [0878-shifting-letters](https://github.com/DeveshJha-00/leethub-test/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1370-count-number-of-nice-subarrays) |
