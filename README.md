@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3429-special-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DeveshJha-00/leethub-test/tree/master/1675-magnetic-force-between-two-balls) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/2465-shifting-letters-ii) |
 | [3639-zero-array-transformation-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
