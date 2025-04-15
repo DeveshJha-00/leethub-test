@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DeveshJha-00/leethub-test/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DeveshJha-00/leethub-test/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DeveshJha-00/leethub-test/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2058-concatenation-of-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeveshJha-00/leethub-test/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DeveshJha-00/leethub-test/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DeveshJha-00/leethub-test/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0507-perfect-number) |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
