@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DeveshJha-00/leethub-test/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/DeveshJha-00/leethub-test/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DeveshJha-00/leethub-test/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshJha-00/leethub-test/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
