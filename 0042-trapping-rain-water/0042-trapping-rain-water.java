@@ -12,9 +12,11 @@ class Solution {
         for (int i=0; i<n;i++){
             int leftMax=prefixMax[i];
             int rightMax=suffixMax[i];
-            total += Math.min(leftMax,rightMax)-height[i];
+            if (height[i]<leftMax && height[i]<rightMax){
+                total += Math.min(leftMax,rightMax)-height[i];
+            }
         }
-        
+
         return total;
     }
 }
