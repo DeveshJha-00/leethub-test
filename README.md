@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DeveshJha-00/leethub-test/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/DeveshJha-00/leethub-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshJha-00/leethub-test/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0556-next-greater-element-iii) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DeveshJha-00/leethub-test/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DeveshJha-00/leethub-test/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0678-valid-parenthesis-string) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DeveshJha-00/leethub-test/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DeveshJha-00/leethub-test/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0678-valid-parenthesis-string) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DeveshJha-00/leethub-test/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/DeveshJha-00/leethub-test/tree/master/0943-sum-of-subarray-minimums) |
