@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2058-concatenation-of-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/DeveshJha-00/leethub-test/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DeveshJha-00/leethub-test/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2465-shifting-letters-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/DeveshJha-00/leethub-test/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DeveshJha-00/leethub-test/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2227-sum-of-subarray-ranges](https://github.com/DeveshJha-00/leethub-test/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -551,4 +553,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/DeveshJha-00/leethub-test/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/DeveshJha-00/leethub-test/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
