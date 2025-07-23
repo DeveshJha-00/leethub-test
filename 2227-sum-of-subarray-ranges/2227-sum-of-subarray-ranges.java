@@ -1,11 +1,11 @@
 class Solution {
 
     public long subArrayRanges(int[] nums) {
-        return sumSubarrayMax(nums) - sumSubarrayMins(nums);
+        return maxSubarraySum(nums) - minSubarraySum(nums);
     }
 
 
-    public long sumSubarrayMins(int[] arr) {
+    public long minSubarraySum(int[] arr) {
         int n = arr.length;
         int[] pse = prevSmallerOrEqualEle(arr);
         int[] nse = nextSmallerEle(arr);
@@ -15,7 +15,7 @@ class Solution {
         }
         return total;
     }
-    public long sumSubarrayMax(int[] arr) {
+    public long maxSubarraySum(int[] arr) {
         int n = arr.length;
         int[] pge = prevGreaterOrEqualEle(arr);
         int[] nge = nextGreaterEle(arr);
