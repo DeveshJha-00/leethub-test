@@ -3,7 +3,8 @@ class Solution {
     public long subArrayRanges(int[] nums) {
         return sumSubarrayMax(nums) - sumSubarrayMins(nums);
     }
-    
+
+
     public long sumSubarrayMins(int[] arr) {
         int n = arr.length;
         int[] pse = prevSmallerOrEqualEle(arr);
@@ -24,6 +25,8 @@ class Solution {
         }
         return total;
     }
+
+
     public int[] prevSmallerOrEqualEle(int[] arr){
         int n = arr.length;
         int[] pse = new int[n];
@@ -37,7 +40,6 @@ class Solution {
         }
         return pse;
     }
-
     public int[] nextSmallerEle(int[] arr){
         int n = arr.length;
         int[] nse = new int[n];
@@ -51,6 +53,8 @@ class Solution {
         }
         return nse;
     }
+
+
     public int[] prevGreaterOrEqualEle(int[] arr){
         int n = arr.length;
         int[] pge = new int[n];
@@ -77,4 +81,5 @@ class Solution {
         }
         return nge;
     }
+    
 }
