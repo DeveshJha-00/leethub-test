@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DeveshJha-00/leethub-test/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DeveshJha-00/leethub-test/tree/master/0283-move-zeroes) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DeveshJha-00/leethub-test/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshJha-00/leethub-test/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/DeveshJha-00/leethub-test/tree/master/0940-fruit-into-baskets) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DeveshJha-00/leethub-test/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/DeveshJha-00/leethub-test/tree/master/0860-design-circular-queue) |
 ## Design
@@ -581,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/DeveshJha-00/leethub-test/tree/master/0937-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
