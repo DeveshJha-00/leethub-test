@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DeveshJha-00/leethub-test/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DeveshJha-00/leethub-test/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/DeveshJha-00/leethub-test/tree/master/1127-last-stone-weight) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1319-unique-number-of-occurrences](https://github.com/DeveshJha-00/leethub-test/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/DeveshJha-00/leethub-test/tree/master/1127-last-stone-weight) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
