@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DeveshJha-00/leethub-test/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DeveshJha-00/leethub-test/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0229-majority-element-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/DeveshJha-00/leethub-test/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DeveshJha-00/leethub-test/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DeveshJha-00/leethub-test/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DeveshJha-00/leethub-test/tree/master/0242-valid-anagram) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
@@ -596,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DeveshJha-00/leethub-test/tree/master/0146-lru-cache) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
