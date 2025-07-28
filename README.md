@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/DeveshJha-00/leethub-test/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/DeveshJha-00/leethub-test/tree/master/0792-binary-search) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/DeveshJha-00/leethub-test/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0966-binary-subarrays-with-sum) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DeveshJha-00/leethub-test/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/DeveshJha-00/leethub-test/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DeveshJha-00/leethub-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DeveshJha-00/leethub-test/tree/master/1034-subarrays-with-k-different-integers) |
@@ -495,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DeveshJha-00/leethub-test/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/DeveshJha-00/leethub-test/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/DeveshJha-00/leethub-test/tree/master/2032-largest-odd-number-in-string) |
