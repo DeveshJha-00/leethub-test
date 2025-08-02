@@ -568,10 +568,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
+| [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
@@ -643,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
