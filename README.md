@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DeveshJha-00/leethub-test/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/DeveshJha-00/leethub-test/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DeveshJha-00/leethub-test/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DeveshJha-00/leethub-test/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeveshJha-00/leethub-test/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DeveshJha-00/leethub-test/tree/master/0085-maximal-rectangle) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DeveshJha-00/leethub-test/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/DeveshJha-00/leethub-test/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/DeveshJha-00/leethub-test/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0260-single-number-iii) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/DeveshJha-00/leethub-test/tree/master/0078-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
