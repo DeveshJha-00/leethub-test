@@ -3,19 +3,19 @@ class Solution {
 
     public List<String> generateParenthesis(int n) {
         StringBuilder temp = new StringBuilder();
-        solve(n, 0, temp);
+        solve(n, temp);
         return res;
     }
-    public void solve(int n, int idx, StringBuilder temp){
-        if (idx==2*n){
+    public void solve(int n, StringBuilder temp){
+        if (temp.length()==2*n){
             if (isValid(temp)) res.add(temp.toString());
             return;
         }
         temp.append("(");
-        solve(n, idx+1, temp);
+        solve(n, temp);
         temp.deleteCharAt(temp.length()-1);
         temp.append(")");
-        solve(n, idx+1, temp);
+        solve(n, temp);
         temp.deleteCharAt(temp.length()-1);
     }
     boolean isValid(StringBuilder s){
