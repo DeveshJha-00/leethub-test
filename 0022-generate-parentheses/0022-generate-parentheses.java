@@ -3,36 +3,31 @@ class Solution {
 
     public List<String> generateParenthesis(int n) {
         StringBuilder temp = new StringBuilder();
-        solve(n, temp);
+        solve(n, temp, 0,0);
         return res;
     }
-    public void solve(int n, StringBuilder temp){
+    public void solve(int n, StringBuilder temp, int op, int cl){
+        if (op>n || cl>op) return;
         if (temp.length()==2*n){
-            if (isValid(temp)) res.add(temp.toString());
+            if (isValid(temp.toString())) res.add(temp.toString());
             return;
         }
         temp.append("(");
-        solve(n, temp);
+        solve(n, temp, op+1, cl);
         temp.deleteCharAt(temp.length()-1);
         temp.append(")");
-        solve(n, temp);
+        solve(n, temp, op, cl+1);
         temp.deleteCharAt(temp.length()-1);
     }
-    boolean isValid(StringBuilder s){
-        int ctr=0;
-        for (int i=0; i<s.length(); i++){
-            if (s.charAt(i)=='(') ctr++;  //Increment balance for '(' 
-            else if (ctr>0) ctr--;
-            else return false;              // A closing ')' without a matching '('
-        }
-        
-        ctr=0;                              //reset ctr for 2nd reverse pass
-        for (int i=s.length()-1; i>=0; i--){
-            if (s.charAt(i)==')') ctr++;  //Increment balance for ')' or '*'
-            else if (ctr>0) ctr--;
-            else return false;              // A closing '(' without a matching ')'
-        }
 
-        return true; 
+    boolean isValid(String str){
+        int ct=0;
+        for (char ch : str.toCharArray()){
+            if (ch=='(') ct++;
+            else ct--;
+            if (ct<0) return false;
+        }
+        return (ct==0);
     }
+
 }
