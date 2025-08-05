@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeveshJha-00/leethub-test/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DeveshJha-00/leethub-test/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshJha-00/leethub-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/DeveshJha-00/leethub-test/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0136-single-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/DeveshJha-00/leethub-test/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/DeveshJha-00/leethub-test/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DeveshJha-00/leethub-test/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0148-sort-list) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DeveshJha-00/leethub-test/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DeveshJha-00/leethub-test/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DeveshJha-00/leethub-test/tree/master/0217-contains-duplicate) |
