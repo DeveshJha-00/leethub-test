@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DeveshJha-00/leethub-test/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DeveshJha-00/leethub-test/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/DeveshJha-00/leethub-test/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0540-single-element-in-a-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeveshJha-00/leethub-test/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/DeveshJha-00/leethub-test/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DeveshJha-00/leethub-test/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
+| [0491-non-decreasing-subsequences](https://github.com/DeveshJha-00/leethub-test/tree/master/0491-non-decreasing-subsequences) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeveshJha-00/leethub-test/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DeveshJha-00/leethub-test/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/DeveshJha-00/leethub-test/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/DeveshJha-00/leethub-test/tree/master/0491-non-decreasing-subsequences) |
 ## Monotonic Stack
 |  |
 | ------- |
