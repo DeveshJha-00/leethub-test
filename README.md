@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/DeveshJha-00/leethub-test/tree/master/0491-non-decreasing-subsequences) |
+| [0868-binary-gap](https://github.com/DeveshJha-00/leethub-test/tree/master/0868-binary-gap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeveshJha-00/leethub-test/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DeveshJha-00/leethub-test/tree/master/2323-minimum-bit-flips-to-convert-number) |
