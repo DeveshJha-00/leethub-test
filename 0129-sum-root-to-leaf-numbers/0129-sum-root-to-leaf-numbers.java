@@ -14,24 +14,24 @@
  * }
  */
 class Solution {
-    private int sum = 0;
-    
+    private int res = 0;
+
     public int sumNumbers(TreeNode root) {
-        solve(root, "");
-        return sum;
+        solve(root, 0);
+        return res;
     }
 
-    public void solve(TreeNode root, String str){
-        if (root==null) return;
+    public void solve(TreeNode root, int sum){
+        if (root == null) return;
 
-        str += String.valueOf(root.val);
+        sum = (sum*10) + root.val;
         if (root.left==null && root.right==null){
-            this.sum += Integer.parseInt(str);
+            this.res += sum;
         }else{
-            solve(root.left, str);
-            solve(root.right, str);
+            solve(root.left, sum);
+            solve(root.right, sum);
         }
 
-        str = str.substring(0, str.length() - 1);
+        sum -= root.val;
     }
 }
