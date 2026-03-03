@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/DeveshJha-00/leethub-test/tree/master/1073-number-of-enclaves) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/DeveshJha-00/leethub-test/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/master/0789-kth-largest-element-in-a-stream) |
