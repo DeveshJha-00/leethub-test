@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/DeveshJha-00/leethub-test/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/DeveshJha-00/leethub-test/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DeveshJha-00/leethub-test/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DeveshJha-00/leethub-test/tree/master/0485-max-consecutive-ones) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DeveshJha-00/leethub-test/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/DeveshJha-00/leethub-test/tree/main/0396-rotate-function/) | Medium |
 | [0507-perfect-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshJha-00/leethub-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DeveshJha-00/leethub-test/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/DeveshJha-00/leethub-test/tree/master/0300-longest-increasing-subsequence) |
+| [0396-rotate-function](https://github.com/DeveshJha-00/leethub-test/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/DeveshJha-00/leethub-test/tree/master/0943-sum-of-subarray-minimums) |
