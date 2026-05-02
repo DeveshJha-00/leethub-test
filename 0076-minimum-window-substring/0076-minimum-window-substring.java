@@ -1,33 +1,39 @@
 class Solution {
     public String minWindow(String s, String t) {
-
-        int n=s.length(), m=t.length(), cnt=0, minLen=Integer.MAX_VALUE, startingIndex=-1;
-        int left=0, right=0;
-
-        HashMap<Character, Integer> map = new HashMap<>();
-        for (int i=0; i<m; i++){
-            char ch = t.charAt(i);
-            map.put(ch, map.getOrDefault(ch,0)+1);
+        int l=0, r=0, startIdx=-1;
+        int minLen = Integer.MAX_VALUE;
+        Map<Character, Integer> map = new HashMap<>();
+        for (char c : t.toCharArray()){
+            map.put(c, map.getOrDefault(c,0) + 1);
         }
+        int count = map.size();
 
-        while (right<n){
-            if (map.getOrDefault(s.charAt(right),0) > 0) cnt++;
-            map.put(s.charAt(right), map.getOrDefault(s.charAt(right),0)-1);
-            while (cnt==m){
-                int len = right-left+1;
-                if (len < minLen){
-                    minLen=len;
-                    startingIndex=left;
-                }
-                map.put(s.charAt(left), map.getOrDefault(s.charAt(left),0)+1);
-                if (map.get(s.charAt(left)) > 0) cnt--;
-                left++;
+        while(r < s.length()){
+            if (map.containsKey(s.charAt(r))){
+                map.put(s.charAt(r), map.get(s.charAt(r)) - 1);
+                if (map.get(s.charAt(r)) == 0) count--;
             }
-            right++;
+            
+            if (count > 0){
+                r++;
+            }else if (count == 0){
+                while (count == 0){
+                    if ((r-l+1) < minLen){
+                        minLen = r-l+1;
+                        startIdx = l;
+                    }
+                    if (map.containsKey(s.charAt(l))){
+                        map.put(s.charAt(l), map.get(s.charAt(l)) + 1);
+                        if (map.get(s.charAt(l)) == 1) count++;
+                    }
+                    l++;
+                } 
+                r++; 
+            }
         }
 
-        if (startingIndex==-1) return "";
-        return s.substring(startingIndex, startingIndex+minLen);
-        
+        if (startIdx == -1) return "";
+        return s.substring(startIdx, startIdx + minLen);
+
     }
 }
