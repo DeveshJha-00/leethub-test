@@ -27,12 +27,12 @@ class Solution {
             return result;
         }
 
-        if (root.right == null){
-            return result + "(" + l + ")";
-        }
-
         if (root.left == null) {
             return result + "()" + "(" + r + ")";
+        }
+
+        if (root.right == null){
+            return result + "(" + l + ")";
         }
 
         else return result + "(" + l + ")" + "(" + r + ")";
