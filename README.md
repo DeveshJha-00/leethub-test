@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/DeveshJha-00/leethub-test/tree/main/0396-rotate-function/) | Medium |
 | [0507-perfect-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0556-next-greater-element-iii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/DeveshJha-00/leethub-test/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0788-rotated-digits](https://github.com/DeveshJha-00/leethub-test/tree/main/0788-rotated-digits/) | Medium |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/DeveshJha-00/leethub-test/tree/master/0491-non-decreasing-subsequences) |
+| [0779-k-th-symbol-in-grammar](https://github.com/DeveshJha-00/leethub-test/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0868-binary-gap](https://github.com/DeveshJha-00/leethub-test/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeveshJha-00/leethub-test/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeveshJha-00/leethub-test/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DeveshJha-00/leethub-test/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/DeveshJha-00/leethub-test/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/2050-count-good-numbers) |
 ## Memoization
