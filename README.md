@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeveshJha-00/leethub-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-rearranging-fruits](https://github.com/DeveshJha-00/leethub-test/tree/master/2561-rearranging-fruits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3221-find-the-peaks](https://github.com/DeveshJha-00/leethub-test/tree/master/3221-find-the-peaks) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeveshJha-00/leethub-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-rearranging-fruits](https://github.com/DeveshJha-00/leethub-test/tree/master/2561-rearranging-fruits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DeveshJha-00/leethub-test/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/DeveshJha-00/leethub-test/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/2050-count-good-numbers) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/DeveshJha-00/leethub-test/tree/main/0788-rotated-digits/) | Medium |
 | [0943-sum-of-subarray-minimums](https://github.com/DeveshJha-00/leethub-test/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeveshJha-00/leethub-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-rearranging-fruits](https://github.com/DeveshJha-00/leethub-test/tree/master/2561-rearranging-fruits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -708,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/DeveshJha-00/leethub-test/tree/master/0491-non-decreasing-subsequences) |
 | [1219-path-with-maximum-gold](https://github.com/DeveshJha-00/leethub-test/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -751,4 +757,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1028-interval-list-intersections](https://github.com/DeveshJha-00/leethub-test/tree/master/1028-interval-list-intersections) |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 <!---LeetCode Topics End-->
