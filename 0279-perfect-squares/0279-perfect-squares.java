@@ -1,6 +1,6 @@
 class Solution {
     public int numSquares(int n) {
-        int[] dp = new int[n + 1];
+        int[] dp = new int[10001];
         Arrays.fill(dp, -1);
         return solve(n, dp);
     }
