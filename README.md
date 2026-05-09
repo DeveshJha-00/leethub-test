@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DeveshJha-00/leethub-test/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeveshJha-00/leethub-test/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DeveshJha-00/leethub-test/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DeveshJha-00/leethub-test/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeveshJha-00/leethub-test/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DeveshJha-00/leethub-test/tree/master/0231-power-of-two) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DeveshJha-00/leethub-test/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DeveshJha-00/leethub-test/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/DeveshJha-00/leethub-test/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/DeveshJha-00/leethub-test/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshJha-00/leethub-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DeveshJha-00/leethub-test/tree/master/0152-maximum-product-subarray) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/DeveshJha-00/leethub-test/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
