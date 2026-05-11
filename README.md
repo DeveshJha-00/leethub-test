@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/DeveshJha-00/leethub-test/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeveshJha-00/leethub-test/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeveshJha-00/leethub-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2561-rearranging-fruits](https://github.com/DeveshJha-00/leethub-test/tree/master/2561-rearranging-fruits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DeveshJha-00/leethub-test/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/3447-clear-digits) |
 ## Hash Table
