@@ -21,8 +21,7 @@ class Solution {
             op2 = solve(arr, op2Idx, visited);
         }
 
-        visited[idx] = false;
-        
+        // visited[idx] = false;
         return op1 || op2;
     }
 }
