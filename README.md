@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/DeveshJha-00/leethub-test/tree/master/1127-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/DeveshJha-00/leethub-test/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1306-jump-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-unique-number-of-occurrences](https://github.com/DeveshJha-00/leethub-test/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeveshJha-00/leethub-test/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/DeveshJha-00/leethub-test/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/DeveshJha-00/leethub-test/tree/master/1073-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1306-jump-game-iii/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/DeveshJha-00/leethub-test/tree/main/0279-perfect-squares/) | Medium |
 | [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/DeveshJha-00/leethub-test/tree/master/1073-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1306-jump-game-iii/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 | Problem Name | Difficulty |
