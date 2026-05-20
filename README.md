@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DeveshJha-00/leethub-test/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/DeveshJha-00/leethub-test/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DeveshJha-00/leethub-test/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DeveshJha-00/leethub-test/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeveshJha-00/leethub-test/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DeveshJha-00/leethub-test/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
