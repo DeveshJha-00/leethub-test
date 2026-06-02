@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DeveshJha-00/leethub-test/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3429-special-array-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3639-zero-array-transformation-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeveshJha-00/leethub-test/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeveshJha-00/leethub-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/DeveshJha-00/leethub-test/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/DeveshJha-00/leethub-test/tree/master/1675-magnetic-force-between-two-balls) |
 | [2540-minimum-common-value](https://github.com/DeveshJha-00/leethub-test/tree/main/2540-minimum-common-value/) | Easy |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-zero-array-transformation-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/DeveshJha-00/leethub-test/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeveshJha-00/leethub-test/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeveshJha-00/leethub-test/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-rearranging-fruits](https://github.com/DeveshJha-00/leethub-test/tree/master/2561-rearranging-fruits) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
