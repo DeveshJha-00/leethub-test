@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2561-rearranging-fruits](https://github.com/DeveshJha-00/leethub-test/tree/master/2561-rearranging-fruits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/DeveshJha-00/leethub-test/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DeveshJha-00/leethub-test/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/2465-shifting-letters-ii) |
+| [2574-left-and-right-sum-differences](https://github.com/DeveshJha-00/leethub-test/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3639-zero-array-transformation-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
