@@ -5,7 +5,7 @@ class Solution {
 
         int res = 0;
         for (int i=left; i<=right; i++){
-            if ((n&i)==0 && Math.abs(n-i)<=k) res+=i;
+            if ((n&i) == 0) res+=i;
         }
 
         return res;
