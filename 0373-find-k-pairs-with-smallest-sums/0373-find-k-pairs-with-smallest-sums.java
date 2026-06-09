@@ -3,8 +3,7 @@ class Solution {
         List<List<Integer>> res = new ArrayList<>();
 
         PriorityQueue<int[]> minHeap = new PriorityQueue<>(
-                                Comparator.comparingInt(arr -> arr[0])
-                                );
+                                (a, b) -> Integer.compare(a[0], b[0]));
         
         for (int i=0; i<Math.min(k, nums1.length); i++){
             minHeap.offer(new int[]{nums1[i]+nums2[0], i, 0});
