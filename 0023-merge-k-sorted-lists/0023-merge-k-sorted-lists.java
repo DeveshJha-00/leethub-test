@@ -28,7 +28,7 @@ class Solution {
             ListNode curr = minHeap.poll();
 
             prev.next = curr;
-            prev = curr;
+            prev = prev.next;
 
             if (curr.next != null) minHeap.offer(curr.next);
         }
