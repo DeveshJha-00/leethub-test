@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3643-zero-array-transformation-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/3447-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/3447-clear-digits) |
 | [3709-find-special-substring-of-length-k](https://github.com/DeveshJha-00/leethub-test/tree/master/3709-find-special-substring-of-length-k) |
+| [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
