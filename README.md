@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeveshJha-00/leethub-test/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/DeveshJha-00/leethub-test/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/DeveshJha-00/leethub-test/tree/master/1073-number-of-enclaves) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeveshJha-00/leethub-test/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/DeveshJha-00/leethub-test/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeveshJha-00/leethub-test/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/DeveshJha-00/leethub-test/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
