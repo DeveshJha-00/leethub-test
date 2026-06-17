@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/3447-clear-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DeveshJha-00/leethub-test/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3379-score-of-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/3447-clear-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3709-find-special-substring-of-length-k](https://github.com/DeveshJha-00/leethub-test/tree/master/3709-find-special-substring-of-length-k) |
 | [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
