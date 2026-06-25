@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1416-restore-the-array](https://github.com/DeveshJha-00/leethub-test/tree/main/1416-restore-the-array/) | Hard |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/DeveshJha-00/leethub-test/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/1542-consecutive-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeveshJha-00/leethub-test/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1370-count-number-of-nice-subarrays) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/DeveshJha-00/leethub-test/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DeveshJha-00/leethub-test/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/2465-shifting-letters-ii) |
