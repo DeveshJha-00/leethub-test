@@ -27,7 +27,7 @@ class Solution {
         while (!pq.isEmpty()) {
             Pair cur = pq.poll();
 
-            if (cur.dist != dist[cur.r][cur.c]) continue;
+            // if (cur.dist != dist[cur.r][cur.c]) continue;
 
             for (int[] dir : dirs) {
                 int nr = cur.r + dir[0];
