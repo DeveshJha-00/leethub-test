@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/DeveshJha-00/leethub-test/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
