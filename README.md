@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/DeveshJha-00/leethub-test/tree/master/1127-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/DeveshJha-00/leethub-test/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1288-remove-covered-intervals](https://github.com/DeveshJha-00/leethub-test/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-unique-number-of-occurrences](https://github.com/DeveshJha-00/leethub-test/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1019-squares-of-a-sorted-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1288-remove-covered-intervals](https://github.com/DeveshJha-00/leethub-test/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeveshJha-00/leethub-test/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
