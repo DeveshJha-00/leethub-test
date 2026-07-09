@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/DeveshJha-00/leethub-test/tree/master/1755-defuse-the-bomb) |
 | [1833-maximum-ice-cream-bars](https://github.com/DeveshJha-00/leethub-test/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DeveshJha-00/leethub-test/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1854-maximum-population-year](https://github.com/DeveshJha-00/leethub-test/tree/main/1854-maximum-population-year/) | Easy |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeveshJha-00/leethub-test/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/2048-build-array-from-permutation) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/DeveshJha-00/leethub-test/tree/master/1635-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/DeveshJha-00/leethub-test/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1854-maximum-population-year](https://github.com/DeveshJha-00/leethub-test/tree/main/1854-maximum-population-year/) | Easy |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DeveshJha-00/leethub-test/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2486-most-frequent-even-element](https://github.com/DeveshJha-00/leethub-test/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/DeveshJha-00/leethub-test/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DeveshJha-00/leethub-test/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1603-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/DeveshJha-00/leethub-test/tree/main/1854-maximum-population-year/) | Easy |
 | [2465-shifting-letters-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/2465-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/DeveshJha-00/leethub-test/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3639-zero-array-transformation-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3639-zero-array-transformation-i) |
