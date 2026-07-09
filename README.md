@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0643-maximum-average-subarray-i) |
+| [0729-my-calendar-i](https://github.com/DeveshJha-00/leethub-test/tree/main/0729-my-calendar-i/) | Medium |
 | [0735-asteroid-collision](https://github.com/DeveshJha-00/leethub-test/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/DeveshJha-00/leethub-test/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/DeveshJha-00/leethub-test/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0540-single-element-in-a-sorted-array) |
+| [0729-my-calendar-i](https://github.com/DeveshJha-00/leethub-test/tree/main/0729-my-calendar-i/) | Medium |
 | [0792-binary-search](https://github.com/DeveshJha-00/leethub-test/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/DeveshJha-00/leethub-test/tree/master/0907-koko-eating-bananas) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DeveshJha-00/leethub-test/tree/master/0225-implement-stack-using-queues) |
 | [0355-design-twitter](https://github.com/DeveshJha-00/leethub-test/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0729-my-calendar-i](https://github.com/DeveshJha-00/leethub-test/tree/main/0729-my-calendar-i/) | Medium |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/DeveshJha-00/leethub-test/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/DeveshJha-00/leethub-test/tree/master/0937-online-stock-span) |
@@ -885,4 +888,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/DeveshJha-00/leethub-test/tree/main/0729-my-calendar-i/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/DeveshJha-00/leethub-test/tree/main/0729-my-calendar-i/) | Medium |
 <!---LeetCode Topics End-->
