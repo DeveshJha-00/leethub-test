@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/DeveshJha-00/leethub-test/tree/master/0011-container-with-most-water) |
@@ -162,8 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/DeveshJha-00/leethub-test/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DeveshJha-00/leethub-test/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/DeveshJha-00/leethub-test/tree/master/0048-rotate-image) |
@@ -175,8 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/DeveshJha-00/leethub-test/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DeveshJha-00/leethub-test/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0258-add-digits) |
@@ -194,8 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/0013-roman-to-integer) |
@@ -260,8 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0009-palindrome-number) |
@@ -302,8 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DeveshJha-00/leethub-test/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DeveshJha-00/leethub-test/tree/master/0016-3sum-closest) |
@@ -342,8 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -380,8 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-zero-array-transformation-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/DeveshJha-00/leethub-test/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/DeveshJha-00/leethub-test/tree/master/0053-maximum-subarray) |
@@ -390,8 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeveshJha-00/leethub-test/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0045-jump-game-ii) |
@@ -416,8 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DeveshJha-00/leethub-test/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DeveshJha-00/leethub-test/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/0049-group-anagrams) |
@@ -459,8 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/DeveshJha-00/leethub-test/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DeveshJha-00/leethub-test/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0136-single-number) |
@@ -480,8 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DeveshJha-00/leethub-test/tree/master/0014-longest-common-prefix) |
@@ -532,8 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DeveshJha-00/leethub-test/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/DeveshJha-00/leethub-test/tree/master/0050-powx-n) |
@@ -547,14 +547,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/2050-count-good-numbers) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/DeveshJha-00/leethub-test/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DeveshJha-00/leethub-test/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
@@ -572,23 +572,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DeveshJha-00/leethub-test/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/DeveshJha-00/leethub-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
@@ -607,8 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/DeveshJha-00/leethub-test/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
@@ -629,8 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DeveshJha-00/leethub-test/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0219-contains-duplicate-ii) |
@@ -649,8 +649,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DeveshJha-00/leethub-test/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DeveshJha-00/leethub-test/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeveshJha-00/leethub-test/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeveshJha-00/leethub-test/tree/master/0084-largest-rectangle-in-histogram) |
@@ -672,8 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/DeveshJha-00/leethub-test/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/3447-clear-digits) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DeveshJha-00/leethub-test/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DeveshJha-00/leethub-test/tree/master/0055-jump-game) |
@@ -694,19 +694,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/DeveshJha-00/leethub-test/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DeveshJha-00/leethub-test/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/DeveshJha-00/leethub-test/tree/master/0021-merge-two-sorted-lists) |
@@ -728,15 +728,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DeveshJha-00/leethub-test/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/DeveshJha-00/leethub-test/tree/master/0860-design-circular-queue) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/DeveshJha-00/leethub-test/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/DeveshJha-00/leethub-test/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0208-implement-trie-prefix-tree) |
@@ -749,8 +749,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/DeveshJha-00/leethub-test/tree/master/0937-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DeveshJha-00/leethub-test/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -762,9 +762,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1306-jump-game-iii/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DeveshJha-00/leethub-test/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/DeveshJha-00/leethub-test/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/DeveshJha-00/leethub-test/tree/main/0279-perfect-squares/) | Medium |
 | [0399-evaluate-division](https://github.com/DeveshJha-00/leethub-test/tree/main/0399-evaluate-division/) | Medium |
@@ -773,16 +774,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1306-jump-game-iii/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DeveshJha-00/leethub-test/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/DeveshJha-00/leethub-test/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DeveshJha-00/leethub-test/tree/master/0128-longest-consecutive-sequence) |
 | [1073-number-of-enclaves](https://github.com/DeveshJha-00/leethub-test/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -793,8 +795,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DeveshJha-00/leethub-test/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeveshJha-00/leethub-test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -804,25 +806,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1656-count-good-triplets](https://github.com/DeveshJha-00/leethub-test/tree/master/1656-count-good-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DeveshJha-00/leethub-test/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3221-find-the-peaks](https://github.com/DeveshJha-00/leethub-test/tree/master/3221-find-the-peaks) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-search-in-a-binary-search-tree](https://github.com/DeveshJha-00/leethub-test/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0258-add-digits) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/DeveshJha-00/leethub-test/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0039-combination-sum) |
@@ -833,8 +835,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/DeveshJha-00/leethub-test/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/DeveshJha-00/leethub-test/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeveshJha-00/leethub-test/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DeveshJha-00/leethub-test/tree/master/0085-maximal-rectangle) |
@@ -845,62 +847,64 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/DeveshJha-00/leethub-test/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/DeveshJha-00/leethub-test/tree/master/2227-sum-of-subarray-ranges) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DeveshJha-00/leethub-test/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/DeveshJha-00/leethub-test/tree/master/0937-online-stock-span) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/DeveshJha-00/leethub-test/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/DeveshJha-00/leethub-test/tree/master/0146-lru-cache) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 ## Line Sweep
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1028-interval-list-intersections](https://github.com/DeveshJha-00/leethub-test/tree/master/1028-interval-list-intersections) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/DeveshJha-00/leethub-test/tree/main/0399-evaluate-division/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/DeveshJha-00/leethub-test/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/DeveshJha-00/leethub-test/tree/main/0399-evaluate-division/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/DeveshJha-00/leethub-test/tree/main/0399-evaluate-division/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/DeveshJha-00/leethub-test/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0729-my-calendar-i](https://github.com/DeveshJha-00/leethub-test/tree/main/0729-my-calendar-i/) | Medium |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0729-my-calendar-i](https://github.com/DeveshJha-00/leethub-test/tree/main/0729-my-calendar-i/) | Medium |
 <!---LeetCode Topics End-->
