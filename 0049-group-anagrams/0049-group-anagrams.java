@@ -8,9 +8,7 @@ class Solution {
             Arrays.sort(ch);
             String sorted = new String(ch);
 
-            if(hm.get(sorted) == null){
-                hm.put(sorted, new ArrayList<String>());
-            }
+            hm.putIfAbsent(sorted, new ArrayList<String>());
             hm.get(sorted).add(strs[i]);
         }
 
