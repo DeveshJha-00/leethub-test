@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/DeveshJha-00/leethub-test/tree/master/2050-count-good-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DeveshJha-00/leethub-test/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DeveshJha-00/leethub-test/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
