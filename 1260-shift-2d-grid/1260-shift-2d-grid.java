@@ -4,35 +4,30 @@ class Solution {
         int size = m * n;
         k %= size;
 
-        List<Integer> list = new ArrayList<>();
-        for (int i=0; i<m; i++){
-            for (int j=0; j<n; j++) list.add(grid[i][j]);
-        }
-
-        reverse(list, 0, list.size()-1);
-        reverse(list, 0, k-1);
-        reverse(list, k, list.size()-1);
+        reverse(grid, 0, size-1);
+        reverse(grid, 0, k-1);
+        reverse(grid, k, size-1);
 
         List<List<Integer>> res = new ArrayList<>();
-        int idx = 0;
-        for (int i=0; i<m; i++) {
-            List<Integer> row = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
-                row.add(list.get(idx++));
+        for (int[] row : grid) {
+            List<Integer> list = new ArrayList<>();
+            for (int val : row) {
+                list.add(val);
             }
-
-            res.add(row);
+            res.add(list);
         }
 
         return res;
-
     }   
 
-    public void reverse(List<Integer> list, int i, int j){
+    public void reverse(int[][] grid, int i, int j){
+        int rows=grid.length, cols=grid[0].length;
+
         while (i < j){
-            int temp = list.get(i);
-            list.set(i, list.get(j));
-            list.set(j, temp);
+            int temp = grid[i/cols][i%cols];
+            grid[i/cols][i%cols] = grid[j/cols][j%cols];
+            grid[j/cols][j%cols] = temp;
+
             i++; j--;
         }
     }
