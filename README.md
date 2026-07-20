@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/DeveshJha-00/leethub-test/tree/main/1094-car-pooling/) | Medium |
 | [1127-last-stone-weight](https://github.com/DeveshJha-00/leethub-test/tree/master/1127-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/DeveshJha-00/leethub-test/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1260-shift-2d-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/1260-shift-2d-grid/) | Easy |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/DeveshJha-00/leethub-test/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1288-remove-covered-intervals](https://github.com/DeveshJha-00/leethub-test/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1306-jump-game-iii/) | Medium |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/DeveshJha-00/leethub-test/tree/master/0085-maximal-rectangle) |
 | [1073-number-of-enclaves](https://github.com/DeveshJha-00/leethub-test/tree/master/1073-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/DeveshJha-00/leethub-test/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1260-shift-2d-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/1260-shift-2d-grid/) | Easy |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Simulation
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/DeveshJha-00/leethub-test/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/DeveshJha-00/leethub-test/tree/main/1094-car-pooling/) | Medium |
+| [1260-shift-2d-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeveshJha-00/leethub-test/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DeveshJha-00/leethub-test/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/2048-build-array-from-permutation) |
