@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DeveshJha-00/leethub-test/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3379-score-of-a-string](https://github.com/DeveshJha-00/leethub-test/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/3447-clear-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3709-find-special-substring-of-length-k](https://github.com/DeveshJha-00/leethub-test/tree/master/3709-find-special-substring-of-length-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/DeveshJha-00/leethub-test/tree/master/1656-count-good-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DeveshJha-00/leethub-test/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3221-find-the-peaks](https://github.com/DeveshJha-00/leethub-test/tree/master/3221-find-the-peaks) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
