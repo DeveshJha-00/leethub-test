@@ -4,27 +4,29 @@ class Solution {
         List<Integer> zeroBlockLen = new ArrayList<>();
         int zeros = 0, ones = 0;
 
-        // for (int i=0; i<n; i++){
-        //     if (s.charAt(i) == '0') zeros++;
-        //     else{
-        //         ones++;
-        //         zeroBlockLen.add(zeros);
-        //         zeros = 0;
-        //     }
-        // } 
-        // zeroBlockLen.add(zeros);
-
-        int i=0;
-        while (i < n){
-            if (s.charAt(i) == '0'){
-                int start = i;
-                while (i<n && s.charAt(i)=='0') i++;
-                zeroBlockLen.add(i - start);
-            }else{
+        for (int i=0; i<n; i++){
+            if (s.charAt(i) == '0') zeros++;
+            else{
                 ones++;
-                i++;
+                if (zeros > 0) {
+                    zeroBlockLen.add(zeros);
+                    zeros = 0;
+                }
             }
         }
+        if (zeros > 0) zeroBlockLen.add(zeros);
+
+        // int i=0;
+        // while (i < n){
+        //     if (s.charAt(i) == '0'){
+        //         int start = i;
+        //         while (i<n && s.charAt(i)=='0') i++;
+        //         zeroBlockLen.add(i - start);
+        //     }else{
+        //         ones++;
+        //         i++;
+        //     }
+        // }
 
         System.out.println(zeroBlockLen);
         int maxLen = 0;
