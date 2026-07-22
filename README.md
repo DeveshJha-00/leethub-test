@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DeveshJha-00/leethub-test/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DeveshJha-00/leethub-test/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/DeveshJha-00/leethub-test/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DeveshJha-00/leethub-test/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DeveshJha-00/leethub-test/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/DeveshJha-00/leethub-test/tree/master/0455-assign-cookies) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/DeveshJha-00/leethub-test/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/DeveshJha-00/leethub-test/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/DeveshJha-00/leethub-test/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DeveshJha-00/leethub-test/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/DeveshJha-00/leethub-test/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/DeveshJha-00/leethub-test/tree/master/0491-non-decreasing-subsequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeveshJha-00/leethub-test/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0868-binary-gap](https://github.com/DeveshJha-00/leethub-test/tree/master/0868-binary-gap) |
