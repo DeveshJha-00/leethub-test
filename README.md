@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3429-special-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeveshJha-00/leethub-test/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DeveshJha-00/leethub-test/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3221-find-the-peaks](https://github.com/DeveshJha-00/leethub-test/tree/master/3221-find-the-peaks) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
