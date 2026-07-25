@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/DeveshJha-00/leethub-test/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeveshJha-00/leethub-test/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/DeveshJha-00/leethub-test/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/DeveshJha-00/leethub-test/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
