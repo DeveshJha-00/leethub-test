@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeveshJha-00/leethub-test/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/DeveshJha-00/leethub-test/tree/main/0729-my-calendar-i/) | Medium |
 | [0735-asteroid-collision](https://github.com/DeveshJha-00/leethub-test/tree/master/0735-asteroid-collision) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/DeveshJha-00/leethub-test/tree/main/0396-rotate-function/) | Medium |
 | [0507-perfect-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeveshJha-00/leethub-test/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeveshJha-00/leethub-test/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0788-rotated-digits](https://github.com/DeveshJha-00/leethub-test/tree/main/0788-rotated-digits/) | Medium |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DeveshJha-00/leethub-test/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DeveshJha-00/leethub-test/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeveshJha-00/leethub-test/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0948-sort-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1019-squares-of-a-sorted-array) |
