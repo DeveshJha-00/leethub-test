@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DeveshJha-00/leethub-test/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DeveshJha-00/leethub-test/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeveshJha-00/leethub-test/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DeveshJha-00/leethub-test/tree/master/1675-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/DeveshJha-00/leethub-test/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/DeveshJha-00/leethub-test/tree/main/1094-car-pooling/) | Medium |
 | [1127-last-stone-weight](https://github.com/DeveshJha-00/leethub-test/tree/master/1127-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
