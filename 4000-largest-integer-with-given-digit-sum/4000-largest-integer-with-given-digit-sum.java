@@ -14,7 +14,7 @@ class Solution {
                 str.append((char)(s + '0'));
                 s = 0;
             }
-            
+
             n--; 
         }
 
