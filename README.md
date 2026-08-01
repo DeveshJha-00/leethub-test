@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DeveshJha-00/leethub-test/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DeveshJha-00/leethub-test/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/DeveshJha-00/leethub-test/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/DeveshJha-00/leethub-test/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/DeveshJha-00/leethub-test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/0503-next-greater-element-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/DeveshJha-00/leethub-test/tree/main/0279-perfect-squares/) | Medium |
 | [0367-valid-perfect-square](https://github.com/DeveshJha-00/leethub-test/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/DeveshJha-00/leethub-test/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/DeveshJha-00/leethub-test/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/DeveshJha-00/leethub-test/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/DeveshJha-00/leethub-test/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeveshJha-00/leethub-test/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/DeveshJha-00/leethub-test/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/DeveshJha-00/leethub-test/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/DeveshJha-00/leethub-test/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/DeveshJha-00/leethub-test/tree/main/0788-rotated-digits/) | Medium |
 | [0943-sum-of-subarray-minimums](https://github.com/DeveshJha-00/leethub-test/tree/master/0943-sum-of-subarray-minimums) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DeveshJha-00/leethub-test/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DeveshJha-00/leethub-test/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/DeveshJha-00/leethub-test/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0486-predict-the-winner](https://github.com/DeveshJha-00/leethub-test/tree/main/0486-predict-the-winner/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeveshJha-00/leethub-test/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeveshJha-00/leethub-test/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -956,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/DeveshJha-00/leethub-test/tree/main/0486-predict-the-winner/) | Medium |
 | [1140-stone-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
