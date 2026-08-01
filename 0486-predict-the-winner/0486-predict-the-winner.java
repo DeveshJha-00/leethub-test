@@ -1,36 +1,23 @@
 class Solution {
-    Integer[][][] dp;
+    private Integer[][] dp;
 
     public boolean predictTheWinner(int[] nums) {
         int n = nums.length;
-        dp = new Integer[2][n][n];
+        dp = new Integer[n+1][n+1];
 
-        int total = 0;
-        for (int x : nums) total += x;
-
-        int p1 = solveForP1(1, 0, n - 1, nums);
-        int p2 = total - p1;
-
-        return p1 >= p2;
+        return solve(nums, 0, n-1) >= 0;
     }
 
-    public int solveForP1(int isP1, int l, int r, int[] nums) {
+    public int solve(int[] nums, int l, int r){
+        int n = nums.length;
+
         if (l > r) return 0;
 
-        if (dp[isP1][l][r] != null)return dp[isP1][l][r];
+        if (dp[l][r] != null) return dp[l][r];
 
-        int res;
+        int takeLeft = nums[l] - solve(nums, l+1, r);
+        int takeRight = nums[r] - solve(nums, l, r-1);
 
-        if (isP1 == 1){
-            res = Math.max(
-                nums[l] + solveForP1(0, l + 1, r, nums),
-                nums[r] + solveForP1(0, l, r - 1, nums));
-        } else{
-            res = Math.min(
-                solveForP1(1, l + 1, r, nums),
-                solveForP1(1, l, r - 1, nums));
-        }
-
-        return dp[isP1][l][r] = res;
+        return dp[l][r] = (int)(Math.max(takeLeft, takeRight));
     }
 }
