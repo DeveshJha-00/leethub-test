@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
+| [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DeveshJha-00/leethub-test/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/1140-stone-game-ii/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeveshJha-00/leethub-test/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeveshJha-00/leethub-test/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeveshJha-00/leethub-test/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/DeveshJha-00/leethub-test/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/1140-stone-game-ii/) | Medium |
+| [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
 | [1416-restore-the-array](https://github.com/DeveshJha-00/leethub-test/tree/main/1416-restore-the-array/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DeveshJha-00/leethub-test/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/DeveshJha-00/leethub-test/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -954,4 +957,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/1140-stone-game-ii/) | Medium |
+| [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
