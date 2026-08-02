@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DeveshJha-00/leethub-test/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/DeveshJha-00/leethub-test/tree/master/0860-design-circular-queue) |
+| [0877-stone-game](https://github.com/DeveshJha-00/leethub-test/tree/main/0877-stone-game/) | Medium |
 | [0878-shifting-letters](https://github.com/DeveshJha-00/leethub-test/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/DeveshJha-00/leethub-test/tree/master/0890-lemonade-change) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DeveshJha-00/leethub-test/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeveshJha-00/leethub-test/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0788-rotated-digits](https://github.com/DeveshJha-00/leethub-test/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/DeveshJha-00/leethub-test/tree/main/0877-stone-game/) | Medium |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/DeveshJha-00/leethub-test/tree/master/1014-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/1140-stone-game-ii/) | Medium |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DeveshJha-00/leethub-test/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/DeveshJha-00/leethub-test/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/DeveshJha-00/leethub-test/tree/main/0877-stone-game/) | Medium |
 | [0943-sum-of-subarray-minimums](https://github.com/DeveshJha-00/leethub-test/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/DeveshJha-00/leethub-test/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/1140-stone-game-ii/) | Medium |
@@ -961,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/DeveshJha-00/leethub-test/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/DeveshJha-00/leethub-test/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
