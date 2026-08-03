@@ -970,4 +970,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DeveshJha-00/leethub-test/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
