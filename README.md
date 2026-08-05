@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/DeveshJha-00/leethub-test/tree/main/0729-my-calendar-i/) | Medium |
 | [0735-asteroid-collision](https://github.com/DeveshJha-00/leethub-test/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/DeveshJha-00/leethub-test/tree/master/0792-binary-search) |
+| [0815-bus-routes](https://github.com/DeveshJha-00/leethub-test/tree/main/0815-bus-routes/) | Hard |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/DeveshJha-00/leethub-test/tree/master/0860-design-circular-queue) |
 | [0877-stone-game](https://github.com/DeveshJha-00/leethub-test/tree/main/0877-stone-game/) | Medium |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/DeveshJha-00/leethub-test/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeveshJha-00/leethub-test/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
+| [0815-bus-routes](https://github.com/DeveshJha-00/leethub-test/tree/main/0815-bus-routes/) | Hard |
 | [0837-most-common-word](https://github.com/DeveshJha-00/leethub-test/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/DeveshJha-00/leethub-test/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0966-binary-subarrays-with-sum) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/DeveshJha-00/leethub-test/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/DeveshJha-00/leethub-test/tree/main/0279-perfect-squares/) | Medium |
 | [0399-evaluate-division](https://github.com/DeveshJha-00/leethub-test/tree/main/0399-evaluate-division/) | Medium |
+| [0815-bus-routes](https://github.com/DeveshJha-00/leethub-test/tree/main/0815-bus-routes/) | Hard |
 | [0871-keys-and-rooms](https://github.com/DeveshJha-00/leethub-test/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/DeveshJha-00/leethub-test/tree/master/1073-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1306-jump-game-iii/) | Medium |
