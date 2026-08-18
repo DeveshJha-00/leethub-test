@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DeveshJha-00/leethub-test/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/DeveshJha-00/leethub-test/tree/master/3429-special-array-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/DeveshJha-00/leethub-test/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DeveshJha-00/leethub-test/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DeveshJha-00/leethub-test/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeveshJha-00/leethub-test/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/DeveshJha-00/leethub-test/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
