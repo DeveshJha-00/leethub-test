@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeveshJha-00/leethub-test/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/DeveshJha-00/leethub-test/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/DeveshJha-00/leethub-test/tree/master/1396-count-servers-that-communicate) |
 | [1406-stone-game-iii](https://github.com/DeveshJha-00/leethub-test/tree/main/1406-stone-game-iii/) | Hard |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeveshJha-00/leethub-test/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/DeveshJha-00/leethub-test/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DeveshJha-00/leethub-test/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DeveshJha-00/leethub-test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeveshJha-00/leethub-test/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/DeveshJha-00/leethub-test/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0868-binary-gap](https://github.com/DeveshJha-00/leethub-test/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeveshJha-00/leethub-test/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/DeveshJha-00/leethub-test/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeveshJha-00/leethub-test/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/DeveshJha-00/leethub-test/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1610-xor-operation-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/master/1610-xor-operation-in-an-array) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DeveshJha-00/leethub-test/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/DeveshJha-00/leethub-test/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/DeveshJha-00/leethub-test/tree/master/0890-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/DeveshJha-00/leethub-test/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/DeveshJha-00/leethub-test/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DeveshJha-00/leethub-test/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/DeveshJha-00/leethub-test/tree/master/2032-largest-odd-number-in-string) |
