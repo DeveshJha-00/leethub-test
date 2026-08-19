@@ -23,12 +23,11 @@ class Solution {
 
             if (!seats.contains(4) && !seats.contains(5) && !seats.contains(6) && !seats.contains(7)){
                 res++;
-                // seats.add(4); seats.add(5); seats.add(6); seats.add(7);
+                seats.add(4); seats.add(5); seats.add(6); seats.add(7);
             }
         }
 
         res += (n - map.size()) * 2;
-
 
         return res;
     }
