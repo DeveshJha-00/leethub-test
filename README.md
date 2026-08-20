@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/DeveshJha-00/leethub-test/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeveshJha-00/leethub-test/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DeveshJha-00/leethub-test/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3221-find-the-peaks](https://github.com/DeveshJha-00/leethub-test/tree/master/3221-find-the-peaks) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeveshJha-00/leethub-test/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/DeveshJha-00/leethub-test/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DeveshJha-00/leethub-test/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DeveshJha-00/leethub-test/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/DeveshJha-00/leethub-test/tree/master/3447-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3612-process-string-with-special-operations-i/) | Medium |
