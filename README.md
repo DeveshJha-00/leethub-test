@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeveshJha-00/leethub-test/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2048-build-array-from-permutation](https://github.com/DeveshJha-00/leethub-test/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DeveshJha-00/leethub-test/tree/master/2058-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DeveshJha-00/leethub-test/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeveshJha-00/leethub-test/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DeveshJha-00/leethub-test/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DeveshJha-00/leethub-test/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DeveshJha-00/leethub-test/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/DeveshJha-00/leethub-test/tree/master/2032-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DeveshJha-00/leethub-test/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeveshJha-00/leethub-test/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DeveshJha-00/leethub-test/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeveshJha-00/leethub-test/tree/master/2497-maximum-matching-of-players-with-trainers) |
