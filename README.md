@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/DeveshJha-00/leethub-test/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/DeveshJha-00/leethub-test/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DeveshJha-00/leethub-test/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/DeveshJha-00/leethub-test/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DeveshJha-00/leethub-test/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DeveshJha-00/leethub-test/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/DeveshJha-00/leethub-test/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
